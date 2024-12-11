@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "726147092518",
+    "project_id": "authprac-17bbd",
+    "storage_bucket": "authprac-17bbd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726147092518:android:99ecf3ee60ca24d50b96e7",
+        "android_client_info": {
+          "package_name": "com.project.authprac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726147092518-4vrtmma0d93g3cb8k0s69ppuj8r2qsmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFDr_kQkbBUecVlflGUfo82T89wLzr4Do"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726147092518-4vrtmma0d93g3cb8k0s69ppuj8r2qsmr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
